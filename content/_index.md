@@ -64,16 +64,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD student
+          company: Unviersity of California at Berkeley
+          company_url: ''
+          company_logo: 
+          location: Berkeley, California, USA
+          date_start: '2023-08-15'
+          date_end: ''
+          description: 
         - title: Intern student
           company: Clemson Unviersity
           company_url: ''
           company_logo: 
           location: remote
           date_start: '2022-03-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-              * Developing and implementing algorithm for solving strongly correlated electron system
+          date_end: '2023-06-01'
+          description: |1-
+              * Developing and implementing algorithm for solving strongly correlated electron system (DQMC & DMRG)
         - title: Intern student
           company: EPFL
           company_url: ''

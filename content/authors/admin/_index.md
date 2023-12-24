@@ -72,14 +72,14 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Genshin Impact
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Piano
         description: ''
-        percent: 80
+        percent: 100
         icon: camera-retro
         icon_pack: fas
 
@@ -91,6 +91,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jry_liu@berkeley.edu'
+  - icon: google-scholar
+    icon_pack: hb
+    link: 'https://scholar.google.com/citations?user=O9mAmdMAAAAJ&hl=en&oi=ao'
 
 
   # Link to a PDF of your resume/CV.
