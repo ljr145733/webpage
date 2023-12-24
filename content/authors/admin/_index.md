@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jiarui Liu 刘佳睿
+title: 刘佳睿
 
 # Name pronunciation (optional)
-name_pronunciation: Jiarui(Jerry) Liu
+name_pronunciation: Jiarui Liu
 
 # Full name (for SEO)
 first_name: Jiarui
